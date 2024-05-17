@@ -1,0 +1,10 @@
+python led-badge-11x44.py
+
+python led-badge-11x44.py -m 6 -s 8 "Hello" "World!"
+python led-badge-11x44.py -s7 -m0,1 :bicycle: :bicycle_r:
+
+
+python led-badge-11x44.py -m 1 -s 8 "Hello" "World!"
+
+
+python led-badge-11x44.py "I.T.S_O.V.E.R" "Kuwait" "Hackathon" "2024" -s 8
